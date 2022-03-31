@@ -1,7 +1,7 @@
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Inseok&nbsp;Park&fontSize=40&fontColor=ffffff)
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </div>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
