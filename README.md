@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#fff&height=200&section=header&text=InseokPark&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=InseokPark&fontSize=40)
 <!--
 **isp1106/isp1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
