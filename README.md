@@ -1,5 +1,4 @@
-<div align="center"> &nbsp
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Inseok&nbsp;Park&fontSize=40&fontColor=000000) &nbsp
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Inseok&nbsp;Park&fontSize=40&fontColor=000000)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
