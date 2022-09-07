@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=InseokPark&fontColor=FEDB39&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Inseok&nbsp;Park&fontColor=FEDB39&fontSize=70&animation=fadeIn&fontAlignY=55)
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 <p align="center">
