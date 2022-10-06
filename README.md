@@ -18,6 +18,10 @@
 
 <h3 align="center"><b>latest</b></h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dlstjr1106)](https://velog.io/@dlstjr1106) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dlstjr1106)](https://velog.io/@dlstjr1106)
 
+<h2 align="center"><b>Portfolio</b></h2>
+
+[Work History](http://isp1106.dothome.co.kr/)
 </div>
+
